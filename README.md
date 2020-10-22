@@ -1,1 +1,1 @@
-# vextest
+# Vex Training
